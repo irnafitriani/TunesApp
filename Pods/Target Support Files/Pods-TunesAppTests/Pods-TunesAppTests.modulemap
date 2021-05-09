@@ -1,0 +1,6 @@
+framework module Pods_TunesAppTests {
+  umbrella header "Pods-TunesAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
