@@ -12,7 +12,7 @@ All iPhone devices with iOS 13 or later
 
 ```
 - Search artist from iTunes
-- Play music 
+- Play and pause music 
 ```
 
 ## Requirement to build
