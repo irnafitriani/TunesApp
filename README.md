@@ -11,6 +11,7 @@ All iPhone devices with iOS 13 or later
 ## Supported Feature
 
 ```
+- List of musics
 - Search artist from iTunes
 - Play and pause music 
 ```
